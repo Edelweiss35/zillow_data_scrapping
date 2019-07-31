@@ -1,4 +1,4 @@
-# Zillow Real Estate Listing Scraper
+# Zillow Real Estate Listing data Scraper
 
 This script will scrape Zillow.com, an online real estate database to extract real estate listings available based on a zip code. If you would like to know more about this scraper you can check out our blog post at this link https://www.scrapehero.com/how-to-scrape-real-estate-listings-on-zillow-com-using-python-and-lxml/
 
